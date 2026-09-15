@@ -14,9 +14,9 @@ Criar uma página em **HTML puro e simples** contendo todos os elementos essenci
 
 O código HTML atende integralmente aos 5 elementos essenciais do desafio:
 
-- [x] **Estrutura Básica:** Título, parágrafo explicativo e uso de texto em **negrito** e *itálico*.
-- [x] **Lista de Itens:** Destaque para os principais consoles clássicos.
-- [x] **Navegação:** Link externo e link interno por âncora (`#ofertas`).
-- [x] **Imagem:** Foto temática de retro gaming.
-- [x] **Tabela de Preços:** Tabela simples com 3 produtos e seus respectivos valores.
-- [x] **Restrição de Tamanho:** Código estruturado em exatamente **45 linhas** (completando o bônus de concisão).
+- **Estrutura Básica:** Título, parágrafo explicativo e uso de texto em **negrito** e *itálico*.
+- **Lista de Itens:** Destaque para os principais consoles clássicos.
+- **Navegação:** Link externo e link interno por âncora (`#ofertas`).
+- **Imagem:** Foto temática de retro gaming.
+- **Tabela de Preços:** Tabela simples com 3 produtos e seus respectivos valores.
+- **Restrição de Tamanho:** Código estruturado em exatamente **45 linhas** (completando o bônus de concisão).
